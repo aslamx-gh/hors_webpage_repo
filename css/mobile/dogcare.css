@@ -1,0 +1,59 @@
+@media only screen and (max-width: 480px) {
+  body main .container .dogcare-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    z-index: 10;
+  }
+  body main .container .dogcare-container .dogcare-wrapper {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    height: 100%;
+    padding: 2% 4%;
+  }
+  body main .container .dogcare-container .dogcare-wrapper h2,
+  body main .container .dogcare-container .dogcare-wrapper h3,
+  body main .container .dogcare-container .dogcare-wrapper h4 {
+    color: rgba(0, 0, 0, 0.795);
+  }
+  body main .container .dogcare-container .dogcare-wrapper h2 {
+    font-size: 2.5rem;
+  }
+  body main .container .dogcare-container .dogcare-wrapper h2 {
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+  }
+  body main .container .dogcare-container .dogcare-wrapper h3 {
+    font-size: 1.25rem;
+  }
+  body main .container .dogcare-container .dogcare-wrapper .whyUs-pts .item::marker,
+  body main .container .dogcare-container .dogcare-wrapper .summary-pts .item::marker {
+    color: rgba(227, 99, 20, 0.6705882353);
+  }
+  body main .container .dogcare-container .dogcare-wrapper .summary {
+    font-size: 1.75rem;
+  }
+  body main .container .dogcare-container .dogcare-wrapper .summary::first-letter {
+    color: rgba(227, 99, 20, 0.6705882353);
+  }
+  body main .container .dogcare-container .dogcare-wrapper p {
+    margin-bottom: 0.5rem;
+  }
+  body main .container .dogcare-container .dogcare-wrapper h2::first-letter {
+    color: rgba(227, 99, 20, 0.6705882353);
+  }
+  body main .container .dogcare-container .dogcare-wrapper ul {
+    padding: 2% 10%;
+  }
+  body main .container .dogcare-container .dogcare-wrapper ul li {
+    margin-bottom: 0.5rem;
+  }
+  body main .container .dogcare-container .dogcare-wrapper .bold {
+    font-weight: bold;
+  }
+}
+
+/*# sourceMappingURL=dogcare.css.map */
