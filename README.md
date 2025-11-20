@@ -34,27 +34,30 @@ This repository contains the full source code, including HTML templates, SCSS st
 
 Clone the repo:
 
-```bash
+````bash
 git clone https://github.com/aslamx-gh/hors_webpage_repo.git
 
 ---
 
-🌐 Live Website
+## 🌐 Live Website
 
+```bash
 Production website:
 👉 https://www.hors.si
 
 ---
 
-📩 Contact
+## 📩 Contact
 
+```bash
 For questions, collaboration, SEO help, or updates:
 📧 matic.grabnar@hors.si
 
 ---
 
-📜 License
+## 📜 License
 
+```bash
 This project is copyrighted.
 Content and assets may not be copied or redistributed without permission.
-```
+````
